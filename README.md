@@ -46,8 +46,8 @@ npm run dev
 - **GET - /api/players/**: Retrieve a list of all players;
 - **GET - /api/players/**{id}{name}{nickname}: Retrieve a single player by ID or specific data with all atributes;
 - **POST - /api/players/**: Create a new player;
-- **PUT - /api/players/**: Update an existing player.
-- **DELETE - /api/players/**: Delete a player.
+- **PUT - /api/players/{id}**: Update an existing player.
+- **DELETE - /api/players/{id}**: Delete a player.
 - **POST - /api/players/divide-teams**: Divide players into teams based on their skill level.
 - **GET - /api/players/rank**: Creates a player ranking based on their skills.
 
