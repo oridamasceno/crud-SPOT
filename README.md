@@ -7,6 +7,9 @@ If I were a beginner trainee on the great coach Ted Lasso's team, this is how I 
 <p align="center" >And it is with this proud look that he would repay me! (and I hope you do too 🤣) 
 </p>
 
+## What did I do? 🗹
+I carried out all the required requests and the bonuses ones, and for this I used the following technologies: Node.js, Express.js, MongoDB, Mongoose and finally Swagger for API Documentation.
+
 ## You may need
 
 Before running the project, you need to have the following installed on your machine:
@@ -51,8 +54,8 @@ npm run dev
 - **POST - /api/players/divide-teams**: Divide players into teams based on their skill level.
 - **GET - /api/players/rank**: Creates a player ranking based on their skills.
 
-## Documentation
+## Documentation 📎
 API documentation is available using Swagger. You can access it by navigating to /api-docs after starting the server.
 
 ## License
-This project is licensed under the MIT License.
+[MIT](https://choosealicense.com/licenses/mit/)
