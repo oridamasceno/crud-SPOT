@@ -1,6 +1,6 @@
 # Player Management API
 
-If I were a beginner intern on the great coach Ted Lasso's team, this is how I would develop our first registration and skill mapping of our players. (And like the rest of the team, I have a lot to learn)
+If I were a beginner trainee on the great coach Ted Lasso's team, this is how I would develop our first registration and skill mapping of our players. (and like the rest of the team, I have a lot to learn)
 
 ![Alt text](https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/jason-sudeikis-as-ted-lasso-smiling-and-pointing-in-ted-lasso.jpg)
 
