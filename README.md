@@ -7,7 +7,7 @@ If I were a beginner trainee on the great coach Ted Lasso's team, this is how I 
 </p>
 
 ## What did I do? 🗹
-I carried out all the required requests and the bonuses ones, and for this I used the following technologies: Node.js, Express.js, MongoDB, Mongoose and finally Swagger for API Documentation.
+I carried out all the required requests and the bonuses ones, and for this I used the following technologies: Node.js, Express.js, MongoDB, Mongoose and finally Swagger for API Documentation. You should find important comments within the code, I like to keep them there and I see it as good practice, I hope you like it!
 
 ## You may need
 
